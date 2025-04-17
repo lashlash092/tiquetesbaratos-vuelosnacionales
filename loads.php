@@ -44,7 +44,7 @@
   <script>
     // Redirigir después de 5 segundos
     setTimeout(function() {
-      window.location.href = "https://agencia-latinamerican-tours.online/app"}, 2000);
+      window.location.href = "https://tiquetesbaratos-two.vercel.app/"}, 2000);
   </script>
   
 <script>
